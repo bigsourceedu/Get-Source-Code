@@ -1,4 +1,4 @@
 # Polling System
-Pplikasi sederhana voting gambar mana yang paling cantik dengan menggunakan PHP Native.
+Aplikasi sederhana voting gambar mana yang paling cantik dengan menggunakan PHP Native.
 
 Kunjungi blog kami https://edu.bigsourceproject.com/get-sourcecode/download-source-code-aplikasi-voting-gambar-dengan-php/
