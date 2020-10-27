@@ -1,4 +1,4 @@
 # Polling System
-Poling sistem sederhana, Yuk pilih mana yang lebih cantik gambar satu atau gambar dua.
+Pplikasi sederhana voting gambar mana yang paling cantik dengan menggunakan PHP Native.
 
-for detail https://www.onphpid.com/membuat-aplikasi-polling-sederhana-dengan-php-mysqli.html
+Kunjungi blog kami https://edu.bigsourceproject.com/get-sourcecode/download-source-code-aplikasi-voting-gambar-dengan-php/
